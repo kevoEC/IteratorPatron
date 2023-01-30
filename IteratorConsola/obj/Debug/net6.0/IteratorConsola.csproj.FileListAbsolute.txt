@@ -1,0 +1,15 @@
+C:\Users\rosco\OneDrive\Escritorio\Programacion4\IteratorConsola\IteratorConsola\bin\Debug\net6.0\IteratorConsola.exe
+C:\Users\rosco\OneDrive\Escritorio\Programacion4\IteratorConsola\IteratorConsola\bin\Debug\net6.0\IteratorConsola.deps.json
+C:\Users\rosco\OneDrive\Escritorio\Programacion4\IteratorConsola\IteratorConsola\bin\Debug\net6.0\IteratorConsola.runtimeconfig.json
+C:\Users\rosco\OneDrive\Escritorio\Programacion4\IteratorConsola\IteratorConsola\bin\Debug\net6.0\IteratorConsola.dll
+C:\Users\rosco\OneDrive\Escritorio\Programacion4\IteratorConsola\IteratorConsola\bin\Debug\net6.0\IteratorConsola.pdb
+C:\Users\rosco\OneDrive\Escritorio\Programacion4\IteratorConsola\IteratorConsola\obj\Debug\net6.0\IteratorConsola.csproj.AssemblyReference.cache
+C:\Users\rosco\OneDrive\Escritorio\Programacion4\IteratorConsola\IteratorConsola\obj\Debug\net6.0\IteratorConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rosco\OneDrive\Escritorio\Programacion4\IteratorConsola\IteratorConsola\obj\Debug\net6.0\IteratorConsola.AssemblyInfoInputs.cache
+C:\Users\rosco\OneDrive\Escritorio\Programacion4\IteratorConsola\IteratorConsola\obj\Debug\net6.0\IteratorConsola.AssemblyInfo.cs
+C:\Users\rosco\OneDrive\Escritorio\Programacion4\IteratorConsola\IteratorConsola\obj\Debug\net6.0\IteratorConsola.csproj.CoreCompileInputs.cache
+C:\Users\rosco\OneDrive\Escritorio\Programacion4\IteratorConsola\IteratorConsola\obj\Debug\net6.0\IteratorConsola.dll
+C:\Users\rosco\OneDrive\Escritorio\Programacion4\IteratorConsola\IteratorConsola\obj\Debug\net6.0\refint\IteratorConsola.dll
+C:\Users\rosco\OneDrive\Escritorio\Programacion4\IteratorConsola\IteratorConsola\obj\Debug\net6.0\IteratorConsola.pdb
+C:\Users\rosco\OneDrive\Escritorio\Programacion4\IteratorConsola\IteratorConsola\obj\Debug\net6.0\IteratorConsola.genruntimeconfig.cache
+C:\Users\rosco\OneDrive\Escritorio\Programacion4\IteratorConsola\IteratorConsola\obj\Debug\net6.0\ref\IteratorConsola.dll
